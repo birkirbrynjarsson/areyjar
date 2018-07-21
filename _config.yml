@@ -16,7 +16,7 @@
 title: Kaldalón
 email: birkir@birkir.is
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description here and here.
+  Write some nonsense description here .
 baseurl: "/kaldalon" # the subpath of your site, e.g. /blog
 url: "http://birkir.is" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gulurbirkir
