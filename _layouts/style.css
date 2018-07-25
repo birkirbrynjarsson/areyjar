@@ -1,2 +1,4 @@
 {% include css/bootstrap.min.css %}
+{% include css/bootstrap-grid.min.css %}
+{% include css/bootstrap-reboot.min.css %}
 {% include css/grayscale.css %}
