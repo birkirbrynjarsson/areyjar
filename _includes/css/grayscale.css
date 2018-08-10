@@ -134,8 +134,8 @@ a:focus {
 .intro {
     display: table;
     width: 100%;
-    height: auto;
-    padding: 100px 0;
+    height: 100%;
+    padding: 30% 0 70% 0;
     text-align: center;
     color: #fff;
     background: url(img/reykjavik-bl-wh-6.jpg) no-repeat bottom center scroll;
