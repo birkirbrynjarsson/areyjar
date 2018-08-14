@@ -1,8 +1,8 @@
 # Site settings
-title: Kaldalón
-email: johann@kaldalon.is
+title: Áreyjar
+email: johann@areyjar.is
 url: http://birkir.is
-baseurl: /kaldalon
+baseurl: /areyjar
 description: "Þróun og umsjón fasteignaverkefna"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -12,7 +12,7 @@ color:
   bg-light: '#dddddd'
 
 # Footer settings
-footer: Kaldalón ehf.
+footer: Áreyjar ehf.
 ssn: Kt. 531009 0610
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
